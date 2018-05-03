@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10042" started-at="2018-05-03T20:19:49Z" finished-at="2018-05-03T20:19:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10042" started-at="2018-05-03T20:19:49Z" finished-at="2018-05-03T20:19:59Z">
+      <class name="com.testng.po.ultimateqa">
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:com.testng.po.ultimateqa@47c62251]" name="browserSetup" is-config="true" duration-ms="6640" started-at="2018-05-03T20:19:49Z" finished-at="2018-05-03T20:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="loggerSetup()[pri:0, instance:com.testng.po.ultimateqa@47c62251]" name="loggerSetup" is-config="true" duration-ms="64" started-at="2018-05-03T20:19:55Z" finished-at="2018-05-03T20:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggerSetup -->
+        <test-method status="PASS" signature="buttonClick1()[pri:0, instance:com.testng.po.ultimateqa@47c62251]" name="buttonClick1" duration-ms="2458" started-at="2018-05-03T20:19:55Z" finished-at="2018-05-03T20:19:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttonClick1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.testng.po.ultimateqa@47c62251]" name="closeBrowser" is-config="true" duration-ms="857" started-at="2018-05-03T20:19:58Z" finished-at="2018-05-03T20:19:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.testng.po.ultimateqa -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
