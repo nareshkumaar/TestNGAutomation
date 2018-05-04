@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9498" started-at="2018-05-03T20:40:11Z" finished-at="2018-05-03T20:40:20Z">
+  <suite name="Default suite" duration-ms="9983" started-at="2018-05-04T19:12:15Z" finished-at="2018-05-04T19:12:25Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9498" started-at="2018-05-03T20:40:11Z" finished-at="2018-05-03T20:40:20Z">
+    <test name="Default test" duration-ms="9983" started-at="2018-05-04T19:12:15Z" finished-at="2018-05-04T19:12:25Z">
       <class name="com.testng.po.ultimateqa">
-        <test-method status="PASS" signature="browserSetup()[pri:0, instance:com.testng.po.ultimateqa@47c62251]" name="browserSetup" is-config="true" duration-ms="4839" started-at="2018-05-03T20:40:11Z" finished-at="2018-05-03T20:40:16Z">
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:com.testng.po.ultimateqa@47c62251]" name="browserSetup" is-config="true" duration-ms="4870" started-at="2018-05-04T19:12:15Z" finished-at="2018-05-04T19:12:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserSetup -->
-        <test-method status="PASS" signature="loggerSetup()[pri:0, instance:com.testng.po.ultimateqa@47c62251]" name="loggerSetup" is-config="true" duration-ms="0" started-at="2018-05-03T20:40:16Z" finished-at="2018-05-03T20:40:16Z">
+        <test-method status="PASS" signature="loggerSetup()[pri:0, instance:com.testng.po.ultimateqa@47c62251]" name="loggerSetup" is-config="true" duration-ms="0" started-at="2018-05-04T19:12:20Z" finished-at="2018-05-04T19:12:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loggerSetup -->
-        <test-method status="PASS" signature="buttonClick1()[pri:1, instance:com.testng.po.ultimateqa@47c62251]" name="buttonClick1" duration-ms="3870" started-at="2018-05-03T20:40:16Z" finished-at="2018-05-03T20:40:20Z">
+        <test-method status="PASS" signature="buttonClick1()[pri:1, instance:com.testng.po.ultimateqa@47c62251]" name="buttonClick1" duration-ms="4268" started-at="2018-05-04T19:12:20Z" finished-at="2018-05-04T19:12:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buttonClick1 -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.testng.po.ultimateqa@47c62251]" name="closeBrowser" is-config="true" duration-ms="772" started-at="2018-05-03T20:40:20Z" finished-at="2018-05-03T20:40:20Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.testng.po.ultimateqa@47c62251]" name="closeBrowser" is-config="true" duration-ms="790" started-at="2018-05-04T19:12:25Z" finished-at="2018-05-04T19:12:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
