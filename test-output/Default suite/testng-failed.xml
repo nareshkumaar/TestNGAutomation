@@ -7,7 +7,6 @@
         <methods>
           <include name="buttonClick1"/>
           <include name="closeBrowser"/>
-          <include name="loggerSetup"/>
           <include name="browserSetup"/>
         </methods>
       </class> <!-- com.testng.po.ultimateqa -->
